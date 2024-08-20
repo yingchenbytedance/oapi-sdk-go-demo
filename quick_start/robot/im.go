@@ -16,7 +16,7 @@ import (
 	larkim "github.com/larksuite/oapi-sdk-go/v3/service/im/v1"
 )
 
-var userOpenIds = []string{"ou_94fd0969734b90a226c2f59b3d54bea5"} // 线上
+var userOpenIds = []string{"ou_94fd0969734b90a226c2f59b3d54bea5"} // 正式
 //var userOpenIds = []string{"ou_10571e5d4a9e0a8e9787d56596a8b93d"} // 测试
 
 // ListChatHistory 获取会话历史消息
